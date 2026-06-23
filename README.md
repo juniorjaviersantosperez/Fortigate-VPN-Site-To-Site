@@ -2,7 +2,7 @@
 
 **Autor:** Junior Javier Santos Pérez
 **Matrícula:** 2024-1599
-**Fecha:** Junio 2026
+
 
 Video demostrativo: https://www.youtube.com/watch?v=16_GxHjg70Q
 
