@@ -6,7 +6,7 @@
 
 Video demostrativo: https://www.youtube.com/watch?v=16_GxHjg70Q
 
-Enlace GitHub: 
+Enlace GitHub: https://github.com/juniorjaviersantosperez/Fortigate-VPN-Site-To-Site.git 
 
 ---
 
